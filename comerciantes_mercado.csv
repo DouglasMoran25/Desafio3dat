@@ -1,0 +1,501 @@
+comerciante_id,nombre_negocio,rubro,anios_operacion,antiguedad_local,ubicacion,empleados,ingreso_mensual_usd,egreso_mensual_usd,m2_local,tiene_almacen,vende_online,acepta_tarjeta,horario_extendido,ahorro_previo_usd,deuda_actual_usd,quejas_clientes_3m,edad_comerciante,nivel_educativo
+C001,Los La Unión Viveres,Textiles,5,2,Norte,1,2896,2101,11,No,No,Sí,No,2692,583,4,41,Básico
+C002,Casa Guadalupe Viveres,Misceláneos,18,9,Centro,7,2023,1271,36,Sí,No,Sí,No,6006,661,4,40,Básico
+C003,El Sonsonate Tienda,Textiles,18,3,Oeste,4,4022,2601,13,Sí,Sí,No,No,16048,501,0,69,Básico
+C004,Mi Rosario Viveres,Misceláneos,1,1,Centro,0,608,472,19,No,No,Sí,No,1276,378,1,31,Básico
+C005,La Esperanza Multi,Misceláneos,8,2,Centro,2,1780,1100,17,No,No,No,No,2080,4347,0,46,Superior
+C006,Los Santa Ana Súper,Comida Rápida,2,2,Sur,2,2403,1661,23,No,Sí,Sí,No,6197,3392,0,59,Medio
+C007,Casa Sol Tienda,Panadería,2,1,Oeste,1,2372,1453,14,Sí,Sí,No,No,4770,744,5,49,Básico
+C008,Super Rosario Market,Textiles,30,7,Este,7,4192,3042,34,Sí,No,No,Sí,7620,311,0,49,Medio
+C009,El Candelaria Comercial,Abarrotes,12,6,Oeste,1,2796,1552,15,No,No,No,No,9881,1680,3,43,Primaria
+C010,Mini Real Multi,Panadería,5,5,Oeste,2,2207,1851,15,No,Sí,Sí,No,2141,1635,1,42,Medio
+C011,La Concepción Tienda,Lácteos,20,1,Oeste,2,2975,2064,28,Sí,No,No,Sí,9468,1581,1,59,Superior
+C012,Express Mañana Tienda,Abarrotes,1,1,Centro,2,1674,1390,16,No,No,No,No,855,231,1,32,Primaria
+C013,Las Mercedes Tienda,Frutas y Verduras,15,2,Norte,3,1942,1169,18,No,Sí,No,No,5669,697,0,32,Primaria
+C014,Las Mañana Comercial,Textiles,35,8,Centro,2,4452,2881,9,No,No,Sí,Sí,4163,547,0,55,Medio
+C015,Distribuidora Caribe Tienda,Misceláneos,15,2,Oeste,2,1655,1014,14,Sí,No,No,No,5013,50,3,74,Básico
+C016,Mi Carmen Depto,Abarrotes,1,1,Oeste,0,1340,827,17,No,No,No,Sí,5798,349,2,48,Primaria
+C017,Super San Miguel Viveres,Textiles,1,1,Norte,1,2084,1589,21,Sí,Sí,Sí,No,2410,631,1,59,Básico
+C018,La Ahuachapán Tienda,Abarrotes,1,1,Este,2,1633,1164,13,No,Sí,No,No,4970,318,0,42,Primaria
+C019,Casa Tropical Tienda,Abarrotes,2,1,Oeste,2,2178,1742,18,No,No,No,No,2841,3317,2,57,Medio
+C020,Casa Asunción Distribuidora,Abarrotes,2,2,Norte,1,2605,1886,13,No,Sí,Sí,No,5238,206,1,33,Superior
+C021,La Santa Ana Market,Panadería,15,8,Centro,4,3383,2317,31,No,No,No,No,7583,1586,1,42,Básico
+C022,Express Pilar Distribuidora,Misceláneos,18,16,Norte,3,1800,1079,24,No,No,No,No,4322,1,3,55,Primaria
+C023,Mini Guadalupe Tienda,Comida Rápida,30,2,Centro,2,4395,3262,18,No,Sí,Sí,Sí,4426,93,2,66,Medio
+C024,Mini Caribe Súper,Misceláneos,2,2,Norte,2,1367,1033,15,No,No,No,Sí,1783,601,0,46,Primaria
+C025,Distribuidora Caribe Market,Textiles,15,15,Oeste,3,4401,2541,24,No,Sí,Sí,Sí,12186,2410,0,47,Básico
+C026,Distribuidora Concepción Tienda,Abarrotes,12,12,Este,2,2271,1693,16,No,No,Sí,No,6730,339,0,43,Básico
+C027,Los Mercedes Súper,Carnes,12,12,Centro,3,3135,2106,16,No,Sí,Sí,No,9819,4366,1,51,Básico
+C028,Los San Salvador Distribuidora,Abarrotes,30,17,Este,8,2965,1779,30,Sí,No,Sí,Sí,10342,633,0,44,Primaria
+C029,Casa San Salvador Viveres,Frutas y Verduras,5,3,Oeste,0,1329,1074,10,No,No,No,Sí,1280,2585,1,48,Medio
+C030,Casa Rosario Comercial,Comida Rápida,1,1,Sur,2,2860,2038,21,No,Sí,No,Sí,7507,326,2,45,Primaria
+C031,Distribuidora Libertad Distribuidora,Frutas y Verduras,8,5,Norte,3,1772,1496,25,Sí,No,No,No,2247,1668,1,50,Básico
+C032,Las Dolores Depto,Carnes,3,3,Sur,2,2353,1722,25,Sí,No,Sí,No,4230,3733,0,23,Primaria
+C033,La Tropical Market,Carnes,10,2,Norte,2,1999,1120,11,No,No,No,Sí,3973,770,0,31,Primaria
+C034,Casa Rosario Súper,Abarrotes,20,1,Sur,1,2507,1819,22,Sí,Sí,Sí,No,6393,471,1,50,Básico
+C035,Mi Sagrado Corazón Viveres,Frutas y Verduras,3,3,Oeste,2,1575,898,27,No,No,No,No,7391,706,1,59,Básico
+C036,El Carmen Multi,Panadería,20,5,Oeste,1,2891,2160,20,No,Sí,No,No,2965,2417,0,32,Primaria
+C037,Express Ahuachapán Tienda,Misceláneos,10,10,Norte,3,1818,1107,25,Sí,No,No,No,6994,4127,0,38,Primaria
+C038,Super Mañana Viveres,Frutas y Verduras,10,10,Norte,2,1948,1093,25,Sí,No,No,No,8526,1235,1,38,Básico
+C039,Mi Flores Depto,Textiles,25,1,Norte,2,4567,3110,15,Sí,Sí,No,No,14012,549,3,24,Básico
+C040,Las Carmen Multi,Abarrotes,8,8,Oeste,2,2957,2255,12,No,No,No,Sí,8299,263,0,53,Básico
+C041,Express Guadalupe Viveres,Lácteos,30,1,Norte,2,3685,3044,19,Sí,No,No,No,1450,351,0,46,Superior
+C042,El San Salvador Viveres,Panadería,8,8,Centro,2,3383,1966,12,No,Sí,No,No,12998,553,1,50,Medio
+C043,Super Candelaria Viveres,Abarrotes,1,1,Sur,0,1307,948,12,No,Sí,No,No,3106,1726,3,58,Superior
+C044,La Guadalupe Market,Textiles,1,1,Norte,3,2924,2292,19,No,No,No,No,4851,877,1,48,Básico
+C045,La Joya Comercial,Comida Rápida,20,6,Este,3,5852,3229,21,Sí,No,Sí,Sí,24284,4086,0,42,Medio
+C046,Super Mercedes Viveres,Carnes,20,14,Oeste,6,4381,3436,24,Sí,Sí,No,No,1558,3402,3,54,Medio
+C047,Casa Centro Multi,Textiles,30,8,Oeste,2,4383,2656,25,No,No,No,No,8139,549,0,34,Básico
+C048,La Mercedes Depto,Lácteos,1,1,Este,2,1769,1407,18,No,No,No,No,1542,86,4,45,Superior
+C049,Las Dolores Tienda,Lácteos,8,1,Este,1,2098,1737,14,Sí,No,No,No,2630,635,0,54,Básico
+C050,Mi Selectos Comercial,Misceláneos,5,1,Centro,1,1421,790,9,No,No,No,No,7432,333,1,31,Básico
+C051,Casa Joya Tienda,Lácteos,20,4,Oeste,5,2672,1930,24,Sí,No,Sí,Sí,8411,403,1,51,Básico
+C052,El Ahuachapán Súper,Carnes,10,3,Oeste,3,3535,2753,24,No,Sí,Sí,Sí,7296,783,0,40,Medio
+C053,La Dolores Multi,Comida Rápida,2,2,Este,2,3818,2698,19,No,Sí,Sí,No,11138,3669,2,19,Primaria
+C054,Super Caribe Market,Carnes,15,4,Oeste,5,3191,2164,17,No,No,No,No,9516,201,1,49,Medio
+C055,La Estrella Depto,Carnes,2,2,Centro,2,3332,2243,19,No,Sí,Sí,No,7589,1067,4,31,Medio
+C056,Casa Reyes Tienda,Textiles,18,3,Oeste,2,3973,2508,20,Sí,Sí,No,Sí,6818,450,0,36,Básico
+C057,La San Miguel Súper,Carnes,40,2,Centro,4,3852,2759,29,No,No,Sí,No,3330,100,3,47,Básico
+C058,Casa Centro Depto,Frutas y Verduras,3,3,Norte,1,2006,1294,25,No,Sí,No,No,4391,401,1,38,Básico
+C059,Mini Paz Viveres,Misceláneos,3,1,Centro,0,1105,814,16,Sí,Sí,No,No,1997,151,0,38,Básico
+C060,Mi Santa Ana Comercial,Abarrotes,20,8,Oeste,1,2840,2219,12,No,No,Sí,No,4741,3548,2,47,Primaria
+C061,Las Carmen Comercial,Frutas y Verduras,40,12,Norte,5,2950,2344,25,No,No,No,No,5502,534,1,31,Primaria
+C062,Express Fátima Depto,Misceláneos,3,3,Centro,0,1221,994,22,No,No,No,No,2472,758,0,75,Primaria
+C063,Casa Candelaria Multi,Carnes,1,1,Sur,1,2103,1727,18,No,Sí,No,Sí,1978,556,0,51,Medio
+C064,Mi Unión Multi,Frutas y Verduras,12,11,Sur,2,1734,1165,10,No,No,No,No,3810,150,0,48,Básico
+C065,La Asunción Depto,Lácteos,10,9,Norte,1,2243,1759,23,Sí,Sí,No,No,4530,553,0,42,Básico
+C066,Distribuidora Libertad Súper,Comida Rápida,20,6,Sur,3,4322,3129,19,No,Sí,No,No,8839,144,3,31,Primaria
+C067,Mi Ahuachapán Comercial,Lácteos,2,2,Este,1,1792,1390,12,No,No,Sí,No,3086,466,0,45,Superior
+C068,Distribuidora Dolores Comercial,Abarrotes,3,3,Centro,1,2625,2230,10,Sí,No,No,Sí,2892,4874,0,35,Medio
+C069,Super Fátima Súper,Comida Rápida,3,3,Oeste,3,2518,1893,19,Sí,Sí,No,No,3700,3720,2,19,Básico
+C070,Los Sonsonate Multi,Abarrotes,2,2,Oeste,1,2722,1820,22,No,Sí,No,Sí,1787,512,1,48,Básico
+C071,Los Rosario Distribuidora,Abarrotes,20,5,Oeste,1,2626,1502,18,No,No,Sí,No,8247,113,0,46,Medio
+C072,Super San Miguel Distribuidora,Lácteos,5,2,Norte,1,2029,1524,17,Sí,No,No,No,6005,352,1,40,Medio
+C073,Mi Mercedes Comercial,Frutas y Verduras,5,4,Norte,0,1422,844,13,Sí,No,No,No,5672,85,1,60,Medio
+C074,Mi Fátima Súper,Misceláneos,10,3,Sur,2,1857,1517,11,Sí,No,No,Sí,548,594,0,31,Primaria
+C075,Los Palma Depto,Abarrotes,2,2,Centro,3,1952,1340,17,Sí,No,No,No,5851,2705,0,46,Medio
+C076,Mi Sagrado Corazón Viveres,Carnes,8,3,Sur,4,2333,1398,28,No,No,Sí,No,5760,186,9,48,Superior
+C077,Distribuidora Mercedes Distribuidora,Comida Rápida,3,3,Centro,4,3032,2398,26,Sí,Sí,No,Sí,2534,254,1,41,Básico
+C078,Express Ahuachapán Comercial,Frutas y Verduras,25,13,Este,4,2461,1649,24,Sí,No,No,Sí,4598,412,2,61,Medio
+C079,Mi Reyes Market,Panadería,1,1,Centro,1,2023,1127,6,No,No,No,No,4683,350,0,40,Medio
+C080,El Estrella Súper,Lácteos,2,2,Norte,1,1395,979,14,No,No,No,No,4200,3414,0,44,Primaria
+C081,Mi Candelaria Viveres,Frutas y Verduras,2,2,Sur,1,1436,1097,24,No,Sí,No,No,1268,597,1,64,Medio
+C082,La Fátima Tienda,Misceláneos,8,4,Este,1,1803,1348,17,No,No,No,No,4087,788,0,37,Primaria
+C083,La Estrella Comercial,Panadería,2,2,Norte,7,2326,1810,22,Sí,Sí,No,Sí,3171,796,0,62,Medio
+C084,Casa Selectos Multi,Carnes,1,1,Norte,1,2971,1663,23,No,Sí,No,Sí,9139,261,0,49,Primaria
+C085,Distribuidora Ahuachapán Súper,Textiles,10,8,Este,3,3797,3211,27,Sí,Sí,No,No,6940,291,0,64,Medio
+C086,Los Carmen Comercial,Panadería,35,11,Sur,1,2493,1643,23,No,Sí,No,No,2208,94,10,39,Medio
+C087,Super Estrella Súper,Comida Rápida,5,5,Sur,2,4561,3839,19,No,No,No,Sí,5306,417,4,39,Medio
+C088,Distribuidora Económico Comercial,Abarrotes,3,3,Norte,1,2313,1674,12,No,Sí,No,No,6221,771,0,48,Medio
+C089,Los Real Multi,Lácteos,3,2,Norte,2,1973,1658,22,No,Sí,No,No,2263,4835,4,43,Medio
+C090,Los  Imperial Tienda,Abarrotes,18,4,Centro,1,2889,2410,13,No,No,Sí,Sí,3202,517,2,52,Medio
+C091,Distribuidora Reyes Comercial,Comida Rápida,30,3,Centro,4,4999,2873,29,Sí,No,Sí,No,5899,4611,1,34,Básico
+C092,Super Estrella Viveres,Carnes,5,5,Norte,3,2960,2496,24,Sí,No,No,No,4110,2015,1,49,Medio
+C093,Mini Estrella Distribuidora,Lácteos,20,16,Norte,1,2169,1585,23,No,No,No,No,2494,654,0,38,Medio
+C094,Mi Selectos Depto,Frutas y Verduras,5,1,Norte,0,1496,1211,27,No,No,No,No,2605,11,0,51,Primaria
+C095,Mini Fuente Distribuidora,Abarrotes,25,1,Centro,4,2920,2405,25,Sí,No,No,No,5610,4521,0,53,Básico
+C096,Mi Centro Depto,Abarrotes,3,3,Norte,1,1556,1027,16,No,No,No,No,3295,1344,3,45,Superior
+C097,Mini Mercedes Viveres,Textiles,3,1,Norte,3,3476,2696,26,No,No,No,No,3874,4903,1,28,Básico
+C098,Casa Sonsonate Súper,Textiles,15,3,Sur,2,3371,2077,22,No,No,No,No,10022,4874,1,54,Superior
+C099,Los Selectos Multi,Lácteos,15,6,Oeste,2,3282,2085,11,No,No,Sí,No,13183,984,1,68,Primaria
+C100,Express Fátima Market,Textiles,10,1,Centro,3,3839,2569,20,No,No,No,No,7452,739,2,50,Básico
+C101,Distribuidora Pilar Multi,Comida Rápida,10,5,Este,1,2089,1722,14,No,No,Sí,No,2646,1329,0,31,Medio
+C102,Las Paz Market,Carnes,8,4,Oeste,2,3157,2051,17,No,Sí,Sí,Sí,2852,2574,2,47,Superior
+C103,Mini Libertad Distribuidora,Textiles,3,3,Este,2,2994,2296,18,No,No,No,No,5894,233,0,45,Primaria
+C104,Express Centro Viveres,Misceláneos,18,2,Norte,3,1916,1243,12,No,No,No,No,3479,171,1,54,Básico
+C105,Los Mañana Comercial,Misceláneos,1,1,Este,2,1088,900,21,Sí,No,No,No,583,2815,2,34,Superior
+C106,Casa Concepción Distribuidora,Carnes,5,4,Norte,1,2003,1690,7,No,No,No,No,1368,740,3,27,Primaria
+C107,Casa El Progreso Market,Panadería,15,1,Sur,2,3421,2473,20,No,No,No,Sí,4434,2155,0,52,Medio
+C108,Distribuidora Guadalupe Multi,Comida Rápida,5,5,Sur,2,3185,2260,17,Sí,Sí,No,No,4066,186,1,36,Medio
+C109,Casa Centro Market,Abarrotes,2,2,Oeste,6,1618,1248,19,No,No,No,No,1579,161,0,41,Medio
+C110,Las Dolores Depto,Textiles,18,1,Este,4,4496,2550,30,Sí,No,Sí,Sí,10422,443,0,47,Primaria
+C111,Casa Unión Multi,Misceláneos,18,8,Este,4,1613,1304,27,No,No,Sí,No,3399,436,0,56,Medio
+C112,Distribuidora Paz Viveres,Lácteos,2,2,Oeste,0,1470,1237,12,No,No,No,Sí,2178,4720,3,53,Medio
+C113,Express Joya Multi,Lácteos,3,3,Sur,0,1383,882,18,No,No,No,No,5318,115,3,62,Superior
+C114,Super Flores Súper,Misceláneos,5,5,Oeste,4,1378,1059,22,No,No,No,No,1411,404,1,44,Superior
+C115,Mi Selectos Tienda,Panadería,2,1,Centro,3,2009,1480,17,No,No,Sí,No,2904,598,0,44,Básico
+C116,Mini Centro Depto,Abarrotes,30,5,Norte,1,2712,1498,13,Sí,Sí,No,No,9419,345,1,58,Básico
+C117,Express Flores Viveres,Misceláneos,18,3,Sur,1,2060,1665,7,No,No,No,Sí,1333,571,3,47,Primaria
+C118,Super Sol Comercial,Frutas y Verduras,18,3,Sur,1,2837,2262,18,No,Sí,Sí,No,4436,434,1,44,Primaria
+C119,Express Sonsonate Viveres,Misceláneos,1,1,Sur,1,1181,835,17,No,No,No,No,2166,2521,1,37,Medio
+C120,Los Concepción Distribuidora,Panadería,8,5,Norte,4,1562,894,24,No,No,Sí,No,4191,438,1,39,Primaria
+C121,Las Santa Ana Súper,Panadería,5,2,Sur,1,2210,1853,20,No,No,No,No,4294,169,4,49,Superior
+C122,La Caribe Tienda,Textiles,25,17,Este,2,4903,3469,21,No,No,No,Sí,8228,604,2,43,Básico
+C123,Super Asunción Multi,Panadería,3,1,Sur,5,2239,1488,30,Sí,Sí,No,No,5459,515,0,29,Medio
+C124,El Sagrado Corazón Market,Misceláneos,1,1,Norte,1,1033,786,24,Sí,No,No,No,579,246,8,38,Primaria
+C125,Express Centro Depto,Comida Rápida,20,18,Sur,2,5825,3851,18,No,No,Sí,Sí,15712,92,1,71,Básico
+C126,El Centro Tienda,Frutas y Verduras,30,5,Norte,1,2675,1735,16,No,No,Sí,Sí,8832,20,1,45,Primaria
+C127,La Buenos Aires Súper,Misceláneos,10,2,Norte,0,1411,1105,12,No,No,No,No,3202,484,1,44,Medio
+C128,El Caribe Market,Frutas y Verduras,10,1,Sur,1,1663,1236,12,No,No,No,No,4324,131,1,30,Básico
+C129,Distribuidora Palma Viveres,Frutas y Verduras,15,6,Norte,2,2359,1908,17,No,No,Sí,No,1552,3646,1,54,Básico
+C130,Distribuidora Fuente Tienda,Frutas y Verduras,5,5,Norte,1,2280,1772,22,No,No,No,No,4509,44,5,28,Primaria
+C131,Los Fátima Viveres,Panadería,20,4,Oeste,2,3213,2117,17,No,No,No,No,9558,694,0,44,Primaria
+C132,El El Progreso Distribuidora,Textiles,35,7,Oeste,2,4979,2894,18,No,Sí,Sí,No,15569,3528,1,19,Medio
+C133,Distribuidora Selectos Depto,Comida Rápida,8,7,Centro,4,3992,2492,27,Sí,No,No,Sí,11069,604,1,39,Primaria
+C134,El El Progreso Depto,Frutas y Verduras,12,1,Este,2,1937,1364,15,No,No,No,No,4090,525,1,41,Primaria
+C135,Mi Providencia Comercial,Textiles,3,3,Centro,3,1675,933,25,Sí,Sí,No,No,7893,3988,1,56,Primaria
+C136,Mi Rosario Depto,Lácteos,1,1,Este,5,1602,1319,24,No,No,No,No,1621,646,5,25,Superior
+C137,Distribuidora Sol Súper,Comida Rápida,5,4,Oeste,1,1688,1379,15,No,No,No,Sí,2064,750,2,55,Básico
+C138,Las Tropical Tienda,Textiles,5,3,Este,3,3239,1908,22,Sí,Sí,No,No,5220,602,1,48,Superior
+C139,Los San Miguel Distribuidora,Frutas y Verduras,1,1,Norte,1,1761,1325,18,No,No,No,No,4731,318,5,51,Medio
+C140,Casa Joya Viveres,Comida Rápida,8,1,Oeste,2,3368,2045,28,Sí,No,Sí,Sí,10834,709,0,45,Primaria
+C141,Casa Ahuachapán Viveres,Abarrotes,5,3,Este,7,2327,1839,24,No,No,No,Sí,4416,650,0,47,Primaria
+C142,El La Unión Comercial,Lácteos,3,3,Oeste,2,1510,966,18,Sí,No,No,No,6293,574,0,26,Superior
+C143,Distribuidora  Imperial Multi,Misceláneos,18,7,Oeste,4,1488,1057,22,Sí,No,Sí,No,1145,254,0,40,Medio
+C144,Mini Pilar Market,Abarrotes,1,1,Centro,2,2329,1929,19,No,No,Sí,No,2439,358,3,51,Medio
+C145,El La Unión Multi,Panadería,5,3,Oeste,3,2662,1755,14,Sí,Sí,Sí,Sí,7397,4019,3,42,Primaria
+C146,Express Fátima Distribuidora,Abarrotes,18,1,Norte,3,3489,1931,21,Sí,No,No,Sí,13233,2024,1,30,Básico
+C147,Mi Unión Viveres,Frutas y Verduras,2,2,Este,0,823,533,20,No,No,No,No,2892,150,1,42,Medio
+C148,El Reyes Viveres,Textiles,20,8,Centro,5,3357,1967,22,Sí,No,Sí,Sí,14329,2423,4,43,Básico
+C149,Express Ahuachapán Market,Carnes,8,7,Sur,2,3669,2689,17,No,No,Sí,No,10193,4434,0,41,Básico
+C150,Super Guadalupe Depto,Comida Rápida,10,7,Oeste,2,3860,2151,18,No,No,Sí,Sí,14217,539,0,39,Superior
+C151,Mi El Progreso Viveres,Textiles,3,3,Sur,3,2345,1461,20,No,Sí,Sí,No,7268,180,4,46,Básico
+C152,Mini El Progreso Market,Frutas y Verduras,20,2,Oeste,1,1905,1114,11,No,No,No,No,9053,589,0,48,Primaria
+C153,Distribuidora Rosario Multi,Carnes,5,5,Este,2,3418,2117,28,Sí,No,Sí,Sí,13340,250,0,51,Medio
+C154,Las Fuente Tienda,Misceláneos,20,4,Este,2,1936,1554,14,No,No,No,No,3229,13,0,44,Medio
+C155,Los Centro Comercial,Frutas y Verduras,2,2,Este,0,1269,863,15,No,No,No,No,4030,14,2,33,Básico
+C156,Distribuidora Santa Ana Súper,Panadería,5,5,Norte,3,3258,1915,16,No,Sí,Sí,No,8464,711,3,57,Básico
+C157,Los Paz Distribuidora,Abarrotes,8,2,Este,2,2288,1778,22,No,No,Sí,No,5103,6,1,41,Primaria
+C158,Los Tropical Súper,Misceláneos,10,4,Este,0,1350,963,19,No,No,No,No,2463,2297,7,31,Primaria
+C159,La Asunción Comercial,Textiles,2,2,Sur,5,2020,1280,17,No,No,Sí,No,4390,432,0,48,Básico
+C160,La El Progreso Súper,Comida Rápida,12,3,Este,2,5183,3108,26,No,No,Sí,Sí,23525,436,1,25,Primaria
+C161,Super Estrella Tienda,Misceláneos,40,2,Sur,1,2246,1474,17,No,No,No,No,1532,139,0,52,Medio
+C162,Mini Unión Viveres,Misceláneos,10,9,Centro,0,1298,845,22,Sí,No,No,Sí,1321,2087,1,59,Básico
+C163,Mi La Unión Distribuidora,Abarrotes,20,4,Centro,5,2253,1583,17,Sí,No,No,No,6973,688,3,64,Primaria
+C164,Distribuidora Asunción Viveres,Carnes,20,2,Oeste,4,3959,2296,22,Sí,Sí,Sí,Sí,16404,543,2,33,Primaria
+C165,Los Dolores Tienda,Textiles,15,3,Sur,2,3657,2998,28,No,Sí,No,No,2305,669,5,31,Medio
+C166,Distribuidora Paz Depto,Abarrotes,1,1,Este,6,1774,1085,28,Sí,Sí,No,Sí,7733,793,0,31,Primaria
+C167,El Rosario Market,Frutas y Verduras,8,8,Este,1,1937,1579,19,No,No,No,No,2483,950,0,39,Básico
+C168,La Guadalupe Tienda,Abarrotes,2,2,Oeste,1,2185,1856,17,No,Sí,No,No,3150,666,2,59,Primaria
+C169,Mini Reyes Comercial,Panadería,5,3,Sur,3,1395,800,26,Sí,No,No,No,1820,587,0,47,Básico
+C170,La Sagrado Corazón Depto,Frutas y Verduras,8,8,Este,1,1843,1072,11,No,No,No,No,4646,3603,0,48,Primaria
+C171,Las Esperanza Súper,Misceláneos,2,2,Centro,0,1324,951,12,No,Sí,No,No,3993,666,4,55,Básico
+C172,Super Centro Multi,Misceláneos,2,1,Oeste,2,1211,977,13,No,Sí,No,No,2435,89,1,55,Primaria
+C173,Mi Unión Comercial,Misceláneos,25,16,Centro,1,2368,1987,17,Sí,Sí,No,Sí,1110,4888,2,38,Medio
+C174,Super Concepción Viveres,Textiles,8,6,Este,2,3814,2355,18,Sí,Sí,Sí,No,8434,635,0,38,Superior
+C175,Super San Salvador Tienda,Textiles,3,3,Centro,1,2990,2233,15,No,No,No,Sí,8877,735,1,42,Primaria
+C176,Express Centro Distribuidora,Frutas y Verduras,1,1,Centro,0,788,557,6,No,No,Sí,No,2726,721,2,19,Básico
+C177,Casa Paz Tienda,Misceláneos,8,5,Sur,1,1456,1143,17,No,No,No,No,1954,3649,0,39,Básico
+C178,Mi Pilar Comercial,Frutas y Verduras,12,3,Centro,2,1932,1134,19,Sí,No,No,No,7454,623,1,36,Básico
+C179,Mini Unión Viveres,Textiles,2,1,Este,2,2644,1646,16,Sí,No,Sí,Sí,8968,474,1,38,Medio
+C180,Las Joya Market,Frutas y Verduras,18,4,Centro,1,2628,2167,18,No,Sí,Sí,No,1663,1203,2,36,Primaria
+C181,Express Candelaria Distribuidora,Textiles,30,4,Oeste,3,4017,2445,25,Sí,No,No,Sí,14905,498,0,37,Medio
+C182,Super Selectos Súper,Misceláneos,15,1,Sur,1,1806,1210,12,No,No,No,Sí,1574,324,0,50,Superior
+C183,Mini El Progreso Multi,Textiles,1,1,Centro,1,2592,2147,24,No,No,Sí,No,2462,4265,0,30,Primaria
+C184,Mi Palma Multi,Panadería,8,1,Centro,1,2703,1849,24,No,No,Sí,No,8882,445,0,48,Medio
+C185,Las El Progreso Multi,Abarrotes,12,7,Centro,2,2495,1851,17,No,No,No,No,3612,1064,0,49,Primaria
+C186,Express Mañana Depto,Frutas y Verduras,8,3,Centro,2,2190,1328,17,No,Sí,No,No,2343,489,1,27,Básico
+C187,Express Rosario Multi,Frutas y Verduras,5,5,Oeste,1,1629,953,14,No,No,No,No,7190,618,4,44,Medio
+C188,Distribuidora Esperanza Depto,Carnes,20,11,Centro,2,4448,2652,16,No,No,Sí,No,7415,1544,3,59,Medio
+C189,El Libertad Depto,Textiles,30,6,Este,2,4232,3150,12,No,Sí,Sí,No,7519,235,0,34,Primaria
+C190,La Concepción Viveres,Carnes,30,2,Sur,2,4190,2778,25,Sí,No,Sí,Sí,7951,2410,0,49,Básico
+C191,Distribuidora Concepción Multi,Comida Rápida,10,3,Centro,3,3763,2863,19,No,No,Sí,Sí,9932,644,0,54,Básico
+C192,El Esperanza Súper,Abarrotes,18,1,Sur,2,2274,1409,24,No,No,No,No,5961,1977,0,43,Primaria
+C193,Casa Santa Ana Distribuidora,Frutas y Verduras,8,4,Norte,1,2077,1363,14,Sí,Sí,Sí,Sí,5862,31,4,72,Primaria
+C194,Los Caribe Comercial,Abarrotes,2,2,Norte,3,1956,1532,21,No,No,No,No,3488,328,2,46,Primaria
+C195,Los Rosario Súper,Abarrotes,18,6,Sur,5,2548,2041,26,No,Sí,Sí,No,4178,3778,1,50,Superior
+C196,Los Real Comercial,Abarrotes,1,1,Oeste,1,1945,1343,16,No,No,No,Sí,3533,3315,4,52,Básico
+C197,Super  Imperial Comercial,Abarrotes,20,11,Norte,2,3083,2122,23,No,No,No,No,11088,3102,2,47,Medio
+C198,La La Unión Súper,Abarrotes,2,2,Este,1,1797,1361,22,No,No,No,No,4680,525,0,38,Superior
+C199,Las Ahuachapán Comercial,Panadería,10,3,Sur,4,3358,2327,22,Sí,No,Sí,Sí,7255,612,5,40,Medio
+C200,Casa Rosario Comercial,Comida Rápida,18,1,Norte,2,4622,3791,28,No,No,No,Sí,3310,208,2,64,Superior
+C201,El  Imperial Tienda,Carnes,12,7,Oeste,2,4342,3218,30,Sí,No,Sí,No,9622,320,0,50,Primaria
+C202,Mini Providencia Distribuidora,Lácteos,15,14,Centro,1,1943,1401,21,No,No,No,No,2083,1932,0,36,Básico
+C203,Mi Económico Súper,Textiles,25,2,Centro,2,4376,3319,19,Sí,No,No,No,5206,339,0,38,Primaria
+C204,El Sol Comercial,Carnes,12,3,Oeste,2,3886,2666,15,No,Sí,No,No,7200,636,0,43,Básico
+C205,El Fátima Viveres,Abarrotes,5,1,Sur,1,2469,1953,13,Sí,No,Sí,No,4726,645,0,47,Primaria
+C206,El Económico Viveres,Carnes,3,1,Norte,1,1529,964,10,No,No,No,Sí,6224,2590,4,48,Básico
+C207,Mi Centro Distribuidora,Textiles,2,2,Oeste,1,2318,1492,17,No,No,No,No,2361,174,0,35,Primaria
+C208,Mi Mercedes Súper,Comida Rápida,10,1,Norte,3,4270,3133,14,No,No,No,No,11287,308,2,31,Medio
+C209,Mini Guadalupe Market,Panadería,20,1,Sur,2,3534,2309,14,Sí,No,Sí,No,13797,1686,0,51,Medio
+C210,Express Dolores Market,Lácteos,5,1,Norte,1,1766,1117,28,No,No,No,No,4844,424,1,41,Superior
+C211,Las Concepción Depto,Abarrotes,18,7,Norte,3,3102,2475,22,No,No,No,No,5613,2655,1,42,Primaria
+C212,Casa  Imperial Comercial,Abarrotes,10,7,Sur,1,2835,2248,12,No,No,Sí,No,6794,1418,2,23,Superior
+C213,Mi Santa Ana Súper,Frutas y Verduras,18,1,Oeste,2,2909,1832,19,No,No,No,Sí,11001,823,0,58,Básico
+C214,Casa Joya Comercial,Misceláneos,2,2,Oeste,0,1054,620,12,No,No,No,No,3392,182,7,53,Básico
+C215,Distribuidora Buenos Aires Market,Abarrotes,20,14,Norte,4,3223,2022,17,No,No,Sí,Sí,11581,1254,1,39,Básico
+C216,Las Sagrado Corazón Viveres,Misceláneos,15,1,Este,4,1532,1257,23,No,No,No,No,1913,3328,0,36,Básico
+C217,Los Estrella Distribuidora,Panadería,18,6,Este,5,3084,1868,38,No,Sí,Sí,Sí,7151,699,0,50,Básico
+C218,Mi Sonsonate Viveres,Carnes,3,3,Sur,3,1988,1189,15,No,No,No,No,3272,165,0,35,Primaria
+C219,Mi Paz Market,Lácteos,18,1,Sur,1,2568,1689,18,No,Sí,No,No,10114,347,1,60,Primaria
+C220,Distribuidora Libertad Depto,Frutas y Verduras,10,5,Centro,1,2204,1409,8,No,Sí,Sí,No,4748,115,1,45,Superior
+C221,Super Económico Depto,Textiles,2,2,Este,2,2713,1837,15,No,Sí,No,No,6415,629,1,41,Superior
+C222,Casa  Imperial Tienda,Lácteos,20,6,Norte,2,2568,1673,14,No,Sí,Sí,No,10432,662,0,37,Primaria
+C223,Super Tropical Súper,Panadería,8,5,Este,3,2771,1694,30,No,No,No,Sí,2802,626,1,32,Básico
+C224,Distribuidora Candelaria Súper,Carnes,8,8,Sur,1,2004,1305,11,No,No,Sí,No,7762,260,1,61,Básico
+C225,Express San Salvador Súper,Comida Rápida,5,4,Norte,3,3225,2398,22,No,No,Sí,Sí,1678,705,2,35,Básico
+C226,Express Mercedes Multi,Lácteos,25,7,Centro,1,2927,1791,22,No,No,No,Sí,9015,1039,2,22,Básico
+C227,El La Unión Comercial,Abarrotes,2,2,Norte,6,2059,1483,21,Sí,No,No,No,2174,3346,0,55,Básico
+C228,Distribuidora Libertad Multi,Carnes,20,1,Centro,2,4376,2561,17,No,No,No,Sí,20874,631,3,37,Primaria
+C229,El Joya Viveres,Textiles,40,7,Sur,2,4578,3087,16,No,No,No,Sí,6921,447,1,48,Primaria
+C230,Distribuidora Flores Market,Frutas y Verduras,5,3,Sur,2,1829,1249,28,No,No,No,No,6407,3022,7,33,Básico
+C231,La Unión Depto,Abarrotes,5,5,Este,1,1533,1108,13,No,No,No,No,1806,405,0,46,Básico
+C232,Las Sagrado Corazón Tienda,Panadería,12,9,Norte,2,3281,2734,21,No,Sí,No,Sí,1156,321,0,44,Básico
+C233,Distribuidora Flores Viveres,Panadería,1,1,Norte,1,2569,2003,15,Sí,No,No,No,6358,582,1,41,Primaria
+C234,Mini Palma Distribuidora,Textiles,1,1,Sur,1,1929,1073,17,Sí,No,No,No,3000,796,4,66,Primaria
+C235,Super Reyes Depto,Carnes,1,1,Norte,2,2335,1712,19,Sí,No,Sí,Sí,3396,112,1,43,Básico
+C236,Express Dolores Viveres,Textiles,15,4,Este,1,2638,2117,11,No,No,No,Sí,3480,679,0,44,Superior
+C237,Distribuidora Providencia Depto,Frutas y Verduras,5,3,Este,2,1843,1210,15,No,Sí,No,No,4823,68,0,30,Medio
+C238,Distribuidora Joya Multi,Frutas y Verduras,15,10,Oeste,3,1891,1597,11,Sí,No,No,No,2629,2445,3,38,Primaria
+C239,Express Carmen Viveres,Frutas y Verduras,5,5,Norte,1,1696,937,20,No,No,No,No,2449,4959,1,23,Medio
+C240,Super Pilar Depto,Frutas y Verduras,1,1,Oeste,1,1169,877,22,Sí,No,No,No,3348,1276,1,47,Medio
+C241,Mini Fátima Depto,Abarrotes,25,1,Norte,3,2663,1821,13,Sí,No,No,No,8108,510,0,44,Medio
+C242,El Pilar Tienda,Lácteos,3,3,Centro,2,1823,1349,24,No,No,No,No,3224,82,0,31,Básico
+C243,Distribuidora Flores Market,Frutas y Verduras,5,5,Este,1,1939,1550,10,Sí,No,No,Sí,4207,2229,0,50,Medio
+C244,Mini Fuente Depto,Frutas y Verduras,2,2,Centro,2,1295,1075,28,No,Sí,Sí,No,1896,324,3,50,Primaria
+C245,Distribuidora Dolores Multi,Carnes,20,2,Norte,3,3980,2735,20,No,No,No,No,3633,356,0,36,Medio
+C246,Mi Reyes Súper,Abarrotes,5,2,Centro,1,2247,1560,10,No,Sí,No,No,4437,706,0,29,Medio
+C247,Mini Centro Viveres,Misceláneos,3,1,Sur,0,1255,954,23,No,No,No,No,3020,1422,2,38,Básico
+C248,Super Real Distribuidora,Lácteos,5,5,Este,1,2225,1794,13,No,No,No,No,1789,665,0,55,Medio
+C249,Los El Progreso Súper,Comida Rápida,1,1,Norte,3,3548,2651,17,Sí,No,No,Sí,2892,2620,0,51,Primaria
+C250,Mini Ahuachapán Viveres,Misceláneos,1,1,Oeste,0,1207,704,20,No,No,No,No,3494,27,0,58,Medio
+C251,Las Rosario Súper,Frutas y Verduras,15,1,Centro,1,2271,1791,20,No,No,No,No,4479,742,0,37,Básico
+C252,El Estrella Tienda,Textiles,15,1,Oeste,8,3215,2703,29,Sí,Sí,No,No,2524,105,5,48,Superior
+C253,Las Pilar Multi,Misceláneos,25,1,Este,1,2053,1510,11,No,No,No,No,3562,316,2,35,Medio
+C254,Express Providencia Market,Misceláneos,5,4,Oeste,0,1327,791,15,No,No,No,Sí,5979,736,3,35,Básico
+C255,La Sonsonate Multi,Frutas y Verduras,1,1,Este,0,1118,919,15,No,No,No,No,944,792,15,52,Básico
+C256,Distribuidora Reyes Distribuidora,Abarrotes,1,1,Oeste,1,2239,1635,14,Sí,Sí,No,No,7208,3474,1,43,Medio
+C257,Super Santa Ana Súper,Lácteos,8,6,Norte,2,2733,2005,23,No,No,No,No,3293,315,0,45,Primaria
+C258,Super El Progreso Distribuidora,Lácteos,10,2,Centro,10,2145,1667,33,No,No,No,No,1459,385,2,46,Primaria
+C259,Express Paz Multi,Abarrotes,12,12,Norte,2,3082,2148,15,No,No,Sí,Sí,10516,4757,2,36,Medio
+C260,Los Ahuachapán Súper,Lácteos,3,3,Sur,3,1533,912,27,Sí,Sí,No,No,6017,598,0,41,Primaria
+C261,Mini Tropical Multi,Abarrotes,18,5,Sur,1,2380,1456,18,No,No,Sí,Sí,7967,750,1,62,Básico
+C262,Super Guadalupe Tienda,Textiles,15,8,Centro,2,3330,2785,16,No,Sí,No,No,6131,4373,1,33,Primaria
+C263,Distribuidora Económico Comercial,Misceláneos,20,11,Centro,3,1941,1398,24,Sí,No,No,No,2441,67,2,36,Medio
+C264,Las Sagrado Corazón Multi,Panadería,2,2,Este,6,1747,1351,22,Sí,No,No,Sí,3331,2444,1,41,Básico
+C265,Super Buenos Aires Súper,Comida Rápida,5,5,Sur,4,3022,2524,22,No,No,No,Sí,1061,4511,0,46,Medio
+C266,Mi  Imperial Comercial,Textiles,30,9,Norte,3,5311,3125,19,No,Sí,Sí,Sí,19998,1128,1,19,Superior
+C267,Mi Esperanza Market,Comida Rápida,10,3,Sur,4,2913,1869,17,No,No,No,Sí,8837,3394,3,42,Básico
+C268,Super Pilar Multi,Textiles,30,4,Sur,2,5553,3226,16,Sí,No,No,Sí,20665,4689,1,50,Medio
+C269,La Ahuachapán Distribuidora,Carnes,2,1,Este,2,3364,2558,19,No,No,No,Sí,7069,988,1,49,Medio
+C270,Mi Dolores Depto,Abarrotes,1,1,Norte,1,1954,1183,11,No,Sí,No,No,8200,610,1,50,Medio
+C271,La Sonsonate Tienda,Abarrotes,3,3,Centro,4,1955,1387,19,No,No,No,No,6515,517,0,47,Básico
+C272,Mi Concepción Multi,Textiles,8,2,Este,2,3958,2990,24,No,No,Sí,No,8547,3928,0,26,Básico
+C273,El Paz Multi,Misceláneos,15,10,Centro,1,1863,1346,12,Sí,No,No,No,887,4597,1,48,Básico
+C274,Distribuidora Paz Súper,Comida Rápida,5,5,Norte,5,3371,2694,25,Sí,Sí,No,Sí,7808,2078,0,40,Básico
+C275,Super Estrella Súper,Abarrotes,1,1,Oeste,2,1886,1175,19,No,No,No,No,2249,2020,0,47,Primaria
+C276,Mi Sagrado Corazón Viveres,Frutas y Verduras,5,4,Centro,0,1203,898,27,No,No,Sí,No,2224,2505,0,52,Básico
+C277,El Palma Multi,Abarrotes,12,5,Norte,1,2504,1800,13,Sí,No,No,Sí,4440,2935,5,56,Básico
+C278,Mini Fuente Tienda,Lácteos,10,7,Norte,1,2076,1394,19,No,No,Sí,No,1654,1862,1,28,Básico
+C279,El Reyes Distribuidora,Misceláneos,1,1,Sur,0,1070,628,13,No,No,Sí,No,2905,416,0,26,Primaria
+C280,Los Rosario Viveres,Frutas y Verduras,1,1,Centro,1,784,597,21,No,No,No,No,892,698,0,43,Primaria
+C281,Los Flores Súper,Comida Rápida,15,6,Sur,3,4838,3222,27,No,No,Sí,Sí,8779,663,0,40,Superior
+C282,El Santa Ana Market,Carnes,18,8,Centro,3,3777,2599,15,No,Sí,No,Sí,8642,781,0,40,Básico
+C283,Casa Libertad Súper,Panadería,1,1,Sur,1,1840,1077,21,No,Sí,No,No,9224,431,1,19,Primaria
+C284,Distribuidora Centro Comercial,Textiles,12,2,Norte,2,4290,3109,15,No,No,No,Sí,13488,2482,2,50,Primaria
+C285,Super Dolores Market,Comida Rápida,8,8,Este,2,3571,2126,18,No,No,No,No,13434,137,0,21,Primaria
+C286,Las Dolores Market,Misceláneos,3,2,Oeste,1,1290,995,11,No,No,No,No,582,828,0,29,Básico
+C287,Los Joya Distribuidora,Abarrotes,2,2,Este,1,1523,922,19,No,Sí,No,No,3981,719,3,56,Primaria
+C288,Las  Imperial Comercial,Panadería,25,3,Norte,1,2723,1622,12,Sí,Sí,Sí,Sí,12832,366,0,45,Primaria
+C289,Mi Real Súper,Abarrotes,8,2,Centro,1,1965,1349,15,No,No,Sí,No,3438,2582,8,49,Medio
+C290,Mini Sonsonate Multi,Abarrotes,2,2,Este,1,1637,1285,15,No,No,No,No,1637,736,0,24,Medio
+C291,Casa Caribe Viveres,Abarrotes,18,1,Este,2,3210,2712,14,No,No,Sí,No,1937,854,2,25,Básico
+C292,Super Dolores Súper,Abarrotes,10,1,Norte,1,2718,1949,22,No,Sí,No,Sí,1558,2714,0,19,Básico
+C293,Los Sagrado Corazón Distribuidora,Abarrotes,8,3,Norte,1,2937,2396,14,No,No,No,No,5546,136,3,31,Básico
+C294,La Joya Multi,Misceláneos,18,18,Norte,7,1690,949,32,No,No,No,No,3179,778,0,19,Primaria
+C295,Las Económico Tienda,Carnes,1,1,Oeste,3,1936,1570,15,No,Sí,Sí,No,3137,598,4,36,Primaria
+C296,Express Pilar Market,Comida Rápida,30,1,Oeste,2,4429,2519,20,Sí,No,Sí,No,21547,341,1,27,Básico
+C297,Mini Unión Market,Carnes,2,2,Sur,1,2724,1978,23,No,No,Sí,No,3807,2864,2,43,Medio
+C298,Express Esperanza Súper,Abarrotes,18,10,Oeste,2,2836,1983,11,No,No,Sí,Sí,5662,4932,3,60,Medio
+C299,Mini Rosario Viveres,Comida Rápida,15,3,Este,2,3436,2063,17,Sí,Sí,Sí,Sí,11517,107,3,38,Básico
+C300,Distribuidora Carmen Distribuidora,Lácteos,20,14,Oeste,3,2567,1621,19,No,No,No,No,8816,558,1,40,Superior
+C301,El Tropical Súper,Lácteos,25,3,Oeste,3,3008,2073,19,No,No,Sí,Sí,9964,482,0,51,Básico
+C302,Los Providencia Depto,Abarrotes,3,3,Este,1,1987,1474,26,Sí,No,No,No,5641,354,0,39,Superior
+C303,Super Paz Market,Abarrotes,10,6,Norte,1,2505,2035,5,Sí,No,Sí,Sí,4734,17,2,41,Primaria
+C304,Casa Sonsonate Tienda,Textiles,18,16,Sur,4,3920,3148,17,No,No,Sí,Sí,8715,295,0,30,Medio
+C305,Las Selectos Depto,Misceláneos,30,6,Centro,7,2016,1486,36,No,No,Sí,No,3442,3643,0,26,Primaria
+C306,Mini Flores Market,Abarrotes,2,2,Sur,4,1778,1010,23,No,No,No,No,7532,365,1,42,Primaria
+C307,Los Palma Distribuidora,Lácteos,20,2,Centro,3,2645,2110,20,No,No,Sí,Sí,4169,441,2,44,Básico
+C308,Casa Guadalupe Comercial,Carnes,10,10,Oeste,1,2591,1438,21,No,No,No,No,9292,430,0,41,Superior
+C309,Las Paz Depto,Textiles,3,3,Centro,2,2158,1450,16,No,No,No,Sí,1568,537,6,50,Básico
+C310,Super Sol Distribuidora,Carnes,25,2,Oeste,4,3517,2460,26,No,No,No,Sí,7409,4691,1,44,Medio
+C311,Mini Libertad Market,Lácteos,30,7,Centro,3,3049,2285,21,No,Sí,Sí,No,4028,3715,2,28,Básico
+C312,La Flores Market,Lácteos,15,5,Centro,1,2216,1601,20,Sí,No,No,No,3737,2370,0,32,Medio
+C313,Distribuidora Sagrado Corazón Depto,Carnes,1,1,Este,0,1350,856,20,Sí,No,No,No,2234,59,1,34,Superior
+C314,La Sonsonate Distribuidora,Comida Rápida,5,1,Este,1,2409,1795,14,No,Sí,No,No,1907,260,2,48,Primaria
+C315,Los Mercedes Multi,Textiles,12,5,Norte,2,3359,2100,19,No,Sí,No,No,7420,666,2,52,Básico
+C316,Mini Mercedes Market,Frutas y Verduras,2,2,Norte,0,1484,1017,11,No,No,Sí,No,3815,486,0,48,Básico
+C317,Los  Imperial Viveres,Carnes,18,3,Este,10,3278,2395,26,Sí,No,Sí,Sí,6415,592,0,47,Básico
+C318,Las Dolores Market,Misceláneos,18,6,Oeste,2,1484,993,21,Sí,No,No,No,2550,66,0,44,Primaria
+C319,Mi Pilar Market,Panadería,18,5,Oeste,5,3663,2712,27,Sí,No,Sí,No,2504,3406,0,50,Superior
+C320,Los Fátima Market,Misceláneos,25,2,Centro,1,2270,1254,11,No,No,Sí,No,10241,41,2,35,Primaria
+C321,El Unión Depto,Abarrotes,1,1,Norte,3,2361,1435,11,No,No,No,No,5166,281,0,45,Básico
+C322,Mi Asunción Multi,Carnes,15,4,Norte,2,3018,1881,17,No,No,Sí,Sí,4712,474,1,70,Básico
+C323,Casa Ahuachapán Distribuidora,Panadería,8,1,Sur,1,2238,1584,20,No,No,No,Sí,4140,334,3,42,Primaria
+C324,El Joya Distribuidora,Abarrotes,8,3,Centro,1,2659,2220,10,No,No,No,No,5399,322,0,29,Superior
+C325,El Mañana Distribuidora,Misceláneos,8,7,Oeste,5,1546,1244,21,No,No,No,No,2252,423,1,30,Básico
+C326,El Palma Tienda,Frutas y Verduras,20,3,Este,5,3010,2382,24,No,Sí,Sí,No,4666,221,0,35,Primaria
+C327,Las Centro Tienda,Panadería,1,1,Norte,3,1594,1057,16,No,No,No,No,3610,320,2,41,Medio
+C328,Las Mañana Market,Panadería,3,3,Oeste,1,2543,1558,13,No,Sí,Sí,No,5960,157,4,50,Primaria
+C329,Las Fuente Distribuidora,Comida Rápida,8,1,Norte,1,2008,1452,13,No,Sí,No,No,6346,208,2,40,Básico
+C330,Las Libertad Viveres,Misceláneos,15,13,Centro,2,1596,1260,21,No,No,No,No,2631,187,0,38,Primaria
+C331,Express Santa Ana Tienda,Frutas y Verduras,18,5,Oeste,1,2263,1365,12,No,No,Sí,No,2455,779,0,63,Medio
+C332,Distribuidora Buenos Aires Comercial,Frutas y Verduras,18,12,Centro,7,2606,1739,22,Sí,No,Sí,No,2528,54,9,46,Medio
+C333,El Fuente Tienda,Abarrotes,3,3,Norte,1,2640,2042,19,No,No,Sí,No,2202,4717,1,50,Medio
+C334,Super Paz Depto,Frutas y Verduras,8,1,Este,1,1566,989,24,Sí,No,No,No,2911,305,2,42,Básico
+C335,El San Miguel Comercial,Lácteos,8,6,Norte,1,2072,1652,17,No,No,Sí,Sí,2693,515,0,55,Básico
+C336,Super San Miguel Tienda,Comida Rápida,5,1,Este,1,2343,1465,20,No,No,Sí,Sí,8828,641,1,54,Medio
+C337,Express La Unión Tienda,Misceláneos,15,2,Norte,2,2069,1248,17,Sí,No,Sí,No,1754,2302,0,35,Básico
+C338,Las Rosario Comercial,Misceláneos,30,5,Sur,1,1787,1446,17,No,No,No,No,2210,366,0,30,Básico
+C339,La Fátima Viveres,Textiles,3,3,Centro,4,1846,1279,23,No,Sí,No,Sí,5483,510,4,34,Medio
+C340,Los Concepción Viveres,Textiles,1,1,Sur,1,1688,1375,17,No,No,No,Sí,1929,432,2,20,Básico
+C341,Express Tropical Multi,Abarrotes,1,1,Sur,5,1895,1249,25,No,No,No,No,4266,715,2,34,Básico
+C342,Super Providencia Multi,Misceláneos,3,3,Este,3,1391,790,25,Sí,No,No,No,7074,1436,0,62,Básico
+C343,Mi Providencia Depto,Carnes,3,1,Centro,2,2936,2205,23,No,Sí,Sí,No,3927,717,4,38,Superior
+C344,Express  Imperial Distribuidora,Abarrotes,3,2,Oeste,0,1106,659,15,No,No,No,Sí,1407,635,2,73,Superior
+C345,Las Fátima Distribuidora,Comida Rápida,35,4,Norte,3,4125,2284,20,Sí,Sí,Sí,No,11436,525,1,36,Medio
+C346,Las Mañana Distribuidora,Lácteos,15,1,Este,2,2261,1913,30,No,No,No,No,2190,425,0,19,Superior
+C347,La Palma Tienda,Misceláneos,5,5,Centro,0,686,558,14,No,No,No,No,1000,132,1,31,Primaria
+C348,El Buenos Aires Depto,Abarrotes,2,1,Este,2,2284,1420,15,No,Sí,Sí,No,4850,302,2,41,Medio
+C349,Mini Mañana Súper,Panadería,5,3,Norte,7,2462,1630,39,No,No,Sí,Sí,3107,371,1,48,Primaria
+C350,Casa Ahuachapán Comercial,Misceláneos,10,1,Centro,2,1587,1278,9,No,No,No,Sí,1498,3150,1,25,Primaria
+C351,Mini Dolores Depto,Abarrotes,25,1,Este,1,2919,2251,23,Sí,Sí,No,No,2033,173,2,43,Medio
+C352,Las Sol Tienda,Frutas y Verduras,3,3,Oeste,1,1275,855,7,No,No,No,No,3521,250,0,38,Superior
+C353,Las Sol Multi,Carnes,25,6,Este,3,4397,3297,19,No,No,Sí,No,7209,3730,4,43,Básico
+C354,El Económico Súper,Panadería,10,1,Norte,3,3322,2219,24,Sí,No,No,Sí,11550,552,0,49,Medio
+C355,La Dolores Depto,Abarrotes,10,2,Norte,1,1828,1243,27,No,No,No,No,1861,298,2,38,Medio
+C356,Las Sonsonate Súper,Abarrotes,20,8,Centro,1,2877,1818,17,Sí,No,Sí,No,5072,452,4,43,Básico
+C357,Distribuidora Dolores Multi,Frutas y Verduras,5,1,Sur,1,2237,1749,20,No,No,Sí,Sí,5236,366,0,33,Básico
+C358,El Dolores Viveres,Textiles,1,1,Este,2,1724,966,13,No,No,No,Sí,1589,1312,2,38,Primaria
+C359,El Asunción Tienda,Panadería,1,1,Sur,1,2104,1331,22,Sí,No,No,Sí,3904,1381,0,34,Superior
+C360,Las Centro Market,Panadería,8,1,Norte,1,2954,1915,8,No,No,Sí,No,2334,236,0,25,Superior
+C361,Mi Palma Distribuidora,Frutas y Verduras,10,1,Norte,1,1819,1531,13,No,No,No,No,1479,1113,0,37,Superior
+C362,El Fátima Comercial,Frutas y Verduras,5,1,Sur,2,1886,1311,22,No,Sí,No,No,2442,390,0,61,Medio
+C363,Casa Ahuachapán Depto,Abarrotes,8,8,Centro,2,1919,1093,13,Sí,No,No,No,7450,3720,1,52,Básico
+C364,Express Esperanza Multi,Panadería,2,2,Sur,6,2503,1940,27,No,No,Sí,No,2209,486,2,57,Básico
+C365,El Tropical Viveres,Comida Rápida,12,1,Norte,3,4772,2635,11,Sí,No,No,Sí,9768,657,6,42,Básico
+C366,La Real Tienda,Comida Rápida,1,1,Centro,2,3587,2965,12,No,No,No,Sí,5256,283,10,50,Básico
+C367,Distribuidora San Salvador Tienda,Panadería,8,5,Centro,2,2792,1750,19,Sí,No,Sí,No,11418,331,4,20,Básico
+C368,Super Esperanza Distribuidora,Frutas y Verduras,2,2,Oeste,3,1797,1501,28,Sí,No,No,No,1737,475,1,39,Primaria
+C369,Los Santa Ana Multi,Carnes,20,8,Centro,2,4482,3218,24,No,No,No,No,14108,648,0,31,Superior
+C370,Express Reyes Multi,Carnes,25,3,Centro,2,4036,3318,19,No,Sí,No,No,8194,4523,6,33,Básico
+C371,El Dolores Súper,Abarrotes,10,10,Este,2,2356,1950,17,Sí,Sí,Sí,No,4374,1226,0,53,Medio
+C372,Casa Dolores Distribuidora,Textiles,1,1,Centro,1,1636,1176,27,Sí,No,No,No,1338,536,1,58,Básico
+C373,Express Concepción Market,Textiles,25,8,Este,3,3606,2360,21,Sí,No,Sí,No,4398,2296,1,53,Básico
+C374,Distribuidora Tropical Distribuidora,Frutas y Verduras,15,1,Centro,1,2369,1558,18,No,No,Sí,Sí,8750,444,0,56,Superior
+C375,La Palma Depto,Comida Rápida,1,1,Centro,1,1987,1601,14,No,No,No,No,1929,251,1,31,Medio
+C376,El Flores Distribuidora,Panadería,12,6,Centro,4,2277,1754,15,Sí,No,No,No,3920,4061,2,31,Básico
+C377,Las Paz Súper,Panadería,18,7,Norte,4,3383,2607,21,Sí,Sí,No,Sí,6456,310,0,58,Primaria
+C378,Mi Libertad Tienda,Misceláneos,8,8,Norte,0,1468,1093,5,Sí,Sí,No,No,3615,298,2,34,Básico
+C379,La Sagrado Corazón Tienda,Textiles,18,14,Oeste,2,4267,2788,19,Sí,No,Sí,No,13919,287,0,59,Básico
+C380,Distribuidora  Imperial Súper,Abarrotes,30,4,Norte,1,2409,1934,22,Sí,Sí,No,Sí,2554,45,1,54,Medio
+C381,Express  Imperial Distribuidora,Carnes,1,1,Sur,1,2208,1498,18,No,No,Sí,No,5203,471,0,29,Medio
+C382,Mi Fuente Tienda,Lácteos,8,8,Centro,1,2485,1687,18,Sí,No,No,Sí,5496,566,2,52,Básico
+C383,Distribuidora Libertad Viveres,Misceláneos,8,7,Centro,0,1451,976,18,Sí,No,No,No,5241,363,1,39,Básico
+C384,Los Unión Depto,Frutas y Verduras,5,1,Sur,1,2057,1333,16,Sí,Sí,Sí,No,7678,574,0,26,Superior
+C385,Express Providencia Depto,Textiles,1,1,Sur,1,2810,1734,12,No,No,Sí,Sí,5496,652,0,51,Primaria
+C386,El Económico Market,Misceláneos,5,1,Centro,2,1709,1016,15,No,No,Sí,No,3651,538,0,46,Básico
+C387,Mini Ahuachapán Distribuidora,Carnes,1,1,Centro,1,2723,1965,17,Sí,No,No,No,4718,192,1,53,Primaria
+C388,Super Selectos Comercial,Lácteos,10,5,Este,5,2798,1629,21,Sí,No,No,Sí,7360,490,3,62,Primaria
+C389,Las Dolores Depto,Panadería,1,1,Centro,4,1468,1231,21,No,No,No,No,1974,726,1,65,Medio
+C390,La Sol Distribuidora,Misceláneos,30,1,Oeste,2,1820,1166,16,No,No,No,No,1453,2598,1,28,Medio
+C391,Las Providencia Depto,Lácteos,12,3,Sur,1,2119,1193,16,Sí,Sí,Sí,No,3783,374,0,28,Básico
+C392,Los Sol Súper,Abarrotes,5,1,Centro,1,2207,1753,19,No,No,No,No,3906,3227,1,50,Primaria
+C393,Los Sol Market,Abarrotes,5,5,Norte,2,1560,1253,23,No,No,No,No,1033,697,1,41,Básico
+C394,Mini Asunción Tienda,Misceláneos,20,5,Este,1,2021,1486,25,No,No,No,No,4840,397,5,62,Medio
+C395,Casa Sol Comercial,Panadería,15,1,Norte,3,3231,2590,8,No,No,No,Sí,2570,761,3,38,Básico
+C396,Mi Fuente Súper,Textiles,18,1,Norte,2,3868,2987,31,No,No,No,No,3921,251,0,32,Medio
+C397,Express Providencia Market,Misceláneos,10,5,Sur,2,1802,1486,20,No,No,No,No,3518,88,2,26,Primaria
+C398,Casa Rosario Comercial,Misceláneos,10,1,Este,3,1668,1156,17,No,No,No,No,2810,295,0,57,Medio
+C399,Distribuidora Selectos Distribuidora,Carnes,15,12,Sur,1,2568,1711,13,No,Sí,No,No,5009,466,0,48,Superior
+C400,Casa La Unión Tienda,Frutas y Verduras,1,1,Este,2,2385,1359,20,No,No,No,No,3969,665,2,45,Básico
+C401,Las Tropical Distribuidora,Lácteos,15,3,Norte,5,2450,1850,24,Sí,No,Sí,No,1553,618,3,50,Primaria
+C402,Distribuidora Providencia Viveres,Frutas y Verduras,18,1,Sur,1,2161,1687,15,No,No,No,No,3278,713,0,51,Medio
+C403,Super Palma Market,Comida Rápida,35,3,Oeste,2,4657,3563,24,Sí,No,Sí,No,11159,124,0,46,Medio
+C404,Mini Pilar Viveres,Textiles,10,3,Sur,2,3393,2124,21,Sí,No,No,No,11366,748,3,47,Básico
+C405,La Rosario Depto,Panadería,3,3,Centro,4,2261,1265,29,Sí,Sí,No,Sí,10689,635,3,52,Básico
+C406,Casa Esperanza Market,Abarrotes,3,1,Oeste,1,2245,1446,23,No,Sí,Sí,No,3675,28,0,57,Básico
+C407,El Unión Comercial,Comida Rápida,12,12,Sur,3,4664,3793,23,No,No,Sí,Sí,7147,467,1,35,Primaria
+C408,Distribuidora Fuente Viveres,Misceláneos,8,2,Norte,1,1623,1349,21,No,No,No,Sí,2228,680,0,59,Primaria
+C409,Las  Imperial Viveres,Textiles,3,3,Norte,1,2905,1890,17,No,No,No,Sí,2105,656,0,42,Medio
+C410,Casa Tropical Market,Frutas y Verduras,30,2,Centro,1,2601,2003,14,Sí,Sí,No,No,3161,259,1,49,Básico
+C411,Casa Real Tienda,Abarrotes,3,3,Norte,1,2299,1706,18,Sí,Sí,No,No,2217,3412,0,40,Superior
+C412,Mi Carmen Distribuidora,Carnes,30,7,Este,4,4325,2421,24,No,No,No,No,20144,257,1,20,Primaria
+C413,Casa Caribe Market,Frutas y Verduras,8,1,Sur,2,1899,1461,21,No,No,Sí,No,1052,2893,2,51,Básico
+C414,Distribuidora Económico Market,Abarrotes,20,10,Norte,3,2596,1487,27,No,No,No,No,10276,520,0,68,Primaria
+C415,Mi Estrella Súper,Misceláneos,3,3,Oeste,0,1360,1035,12,No,No,No,No,601,557,0,38,Básico
+C416,Super Buenos Aires Depto,Panadería,12,6,Este,2,3020,2325,23,No,No,Sí,No,8580,4241,1,51,Medio
+C417,Express Sagrado Corazón Market,Abarrotes,30,5,Oeste,2,3089,2227,17,No,No,No,No,5426,500,2,32,Básico
+C418,El Guadalupe Comercial,Carnes,5,2,Norte,1,2403,2036,10,No,Sí,Sí,No,2353,2898,0,31,Medio
+C419,El Concepción Súper,Lácteos,12,12,Este,1,2760,2245,9,Sí,Sí,Sí,Sí,4868,1682,0,57,Primaria
+C420,Super Rosario Market,Abarrotes,30,5,Oeste,4,3127,2480,27,Sí,No,Sí,Sí,2144,202,0,65,Primaria
+C421,Super Palma Tienda,Abarrotes,18,9,Sur,2,2436,1584,28,No,No,Sí,No,7985,309,4,61,Primaria
+C422,Los Asunción Multi,Panadería,2,2,Centro,1,2188,1447,22,No,Sí,Sí,No,6843,1668,1,43,Básico
+C423,Distribuidora Pilar Súper,Frutas y Verduras,12,2,Sur,1,1577,1131,16,Sí,Sí,No,No,3352,236,0,39,Medio
+C424,Mini Pilar Depto,Textiles,12,8,Este,3,5532,4246,31,Sí,No,No,No,2546,643,1,46,Básico
+C425,Express Rosario Súper,Abarrotes,5,5,Norte,1,1840,1425,12,No,No,Sí,No,3847,292,1,32,Básico
+C426,La Libertad Multi,Lácteos,8,4,Norte,2,2366,1882,18,No,No,Sí,No,2366,91,3,28,Medio
+C427,La La Unión Multi,Frutas y Verduras,2,2,Norte,3,1555,923,18,Sí,Sí,No,No,3269,118,1,46,Primaria
+C428,Distribuidora Real Depto,Panadería,15,7,Centro,3,3371,2149,26,Sí,Sí,No,Sí,4442,428,1,54,Superior
+C429,Mini El Progreso Comercial,Misceláneos,5,4,Norte,2,1434,818,15,No,No,No,No,2921,765,1,54,Medio
+C430,Casa Sonsonate Multi,Frutas y Verduras,2,1,Este,6,804,544,27,Sí,Sí,No,No,1864,2246,0,51,Primaria
+C431,Las Sagrado Corazón Comercial,Textiles,8,1,Este,1,2755,1907,22,Sí,No,Sí,No,7606,560,0,32,Medio
+C432,El Unión Multi,Misceláneos,1,1,Oeste,1,1472,1068,14,No,No,No,No,4161,422,1,30,Primaria
+C433,Casa Buenos Aires Tienda,Frutas y Verduras,3,3,Oeste,0,1108,629,5,Sí,No,No,No,4170,764,4,51,Medio
+C434,Mi Pilar Depto,Carnes,10,6,Norte,3,3040,1896,21,Sí,Sí,No,No,9153,423,0,27,Básico
+C435,El Unión Tienda,Comida Rápida,10,4,Oeste,3,4131,3440,23,Sí,Sí,No,No,6111,853,1,38,Primaria
+C436,Express Sol Súper,Lácteos,5,1,Centro,1,1465,922,22,No,No,No,No,5285,566,0,39,Primaria
+C437,Los El Progreso Multi,Abarrotes,15,1,Sur,1,2569,1981,20,No,No,No,No,5418,664,0,44,Primaria
+C438,Las Fuente Distribuidora,Panadería,25,2,Este,3,3835,3204,15,No,No,Sí,No,3130,72,0,45,Medio
+C439,Los Buenos Aires Tienda,Frutas y Verduras,2,2,Norte,0,1196,1014,21,No,Sí,No,Sí,1064,792,1,38,Primaria
+C440,Los Palma Tienda,Misceláneos,15,4,Oeste,1,1904,1548,22,Sí,No,No,No,3799,708,5,42,Superior
+C441,Mi Esperanza Distribuidora,Misceláneos,3,2,Norte,1,1162,661,20,No,Sí,No,No,4880,333,6,34,Medio
+C442,La  Imperial Market,Abarrotes,18,11,Oeste,1,2279,1493,18,No,No,Sí,No,4068,744,0,40,Primaria
+C443,Super Buenos Aires Market,Carnes,5,4,Oeste,2,2953,2334,27,Sí,No,No,Sí,6639,793,3,56,Básico
+C444,Super Unión Viveres,Textiles,2,1,Sur,3,3262,2136,23,Sí,Sí,Sí,No,6883,228,0,55,Superior
+C445,Las Sol Distribuidora,Textiles,5,4,Oeste,2,2162,1834,25,No,No,No,Sí,1622,4869,0,44,Primaria
+C446,La San Miguel Distribuidora,Frutas y Verduras,18,18,Oeste,1,1903,1450,15,Sí,No,No,Sí,1935,501,3,48,Primaria
+C447,Express Sagrado Corazón Market,Lácteos,3,3,Centro,3,1628,1079,23,No,No,Sí,No,1922,2955,0,48,Básico
+C448,Las La Unión Comercial,Frutas y Verduras,8,3,Centro,8,2199,1701,28,Sí,No,No,No,3590,754,0,64,Básico
+C449,Distribuidora Fátima Comercial,Textiles,12,3,Sur,1,2968,2056,25,Sí,Sí,Sí,No,2102,631,4,38,Primaria
+C450,Express Centro Súper,Lácteos,18,8,Centro,3,3089,2571,15,Sí,Sí,No,No,3597,722,0,43,Básico
+C451,La Rosario Multi,Abarrotes,2,2,Este,0,1487,833,10,No,No,No,No,1910,1896,1,55,Primaria
+C452,Los  Imperial Comercial,Textiles,2,2,Norte,6,2966,2046,32,Sí,No,No,No,6816,459,1,34,Básico
+C453,Las Mercedes Súper,Frutas y Verduras,25,8,Oeste,5,2667,1528,24,Sí,Sí,Sí,No,8513,343,0,49,Primaria
+C454,El San Salvador Viveres,Frutas y Verduras,8,1,Centro,1,2239,1353,21,Sí,Sí,No,No,3002,478,0,41,Medio
+C455,La Estrella Depto,Frutas y Verduras,2,2,Centro,2,1607,885,31,No,No,No,No,2427,403,1,19,Primaria
+C456,Super Santa Ana Multi,Frutas y Verduras,25,2,Oeste,6,2431,1536,25,No,No,No,No,8134,2336,1,58,Primaria
+C457,Mini Caribe Viveres,Textiles,10,10,Este,2,2940,2361,18,Sí,No,Sí,No,2109,105,1,50,Superior
+C458,Casa Providencia Comercial,Abarrotes,25,11,Centro,2,2886,2165,22,No,No,No,No,7388,3549,0,62,Básico
+C459,Mini Esperanza Market,Carnes,5,2,Norte,2,2172,1827,17,No,Sí,Sí,No,599,2208,1,47,Primaria
+C460,Distribuidora Flores Tienda,Abarrotes,20,1,Este,4,3858,2542,22,No,No,Sí,No,2631,155,1,48,Medio
+C461,Mini Guadalupe Distribuidora,Carnes,10,3,Este,2,3379,2753,20,No,No,Sí,No,3129,261,1,38,Medio
+C462,Mini Libertad Comercial,Abarrotes,5,3,Centro,2,2635,1979,15,No,No,No,No,7490,3621,4,48,Primaria
+C463,Casa Guadalupe Market,Frutas y Verduras,5,5,Oeste,1,1957,1139,15,Sí,No,No,Sí,8106,1581,1,31,Básico
+C464,Express Tropical Multi,Carnes,25,5,Centro,3,3890,2806,19,No,No,No,Sí,3107,3261,0,53,Primaria
+C465,Casa Económico Viveres,Comida Rápida,2,2,Oeste,2,3374,2649,22,No,Sí,No,Sí,2011,1164,0,57,Básico
+C466,Mini Centro Viveres,Panadería,20,7,Centro,2,3183,1942,18,No,No,No,Sí,10955,575,1,58,Superior
+C467,Mi Sagrado Corazón Súper,Lácteos,18,6,Norte,1,2247,1669,17,No,No,No,No,4954,3737,5,33,Básico
+C468,El Rosario Depto,Carnes,20,5,Oeste,3,3365,2196,21,No,No,Sí,Sí,9968,282,0,47,Primaria
+C469,Express Real Comercial,Carnes,3,3,Norte,5,2408,1478,30,No,No,Sí,No,3505,191,0,32,Básico
+C470,Casa Libertad Market,Frutas y Verduras,15,3,Este,10,2812,1891,36,Sí,Sí,No,Sí,8940,4688,0,52,Primaria
+C471,Casa Asunción Multi,Frutas y Verduras,1,1,Este,5,2127,1582,22,No,Sí,Sí,No,3830,1011,2,54,Medio
+C472,Express El Progreso Tienda,Textiles,2,2,Centro,2,2849,1754,18,No,No,Sí,Sí,9362,3993,0,45,Básico
+C473,La Esperanza Tienda,Frutas y Verduras,8,1,Norte,2,1275,836,25,No,Sí,No,No,3702,773,5,26,Superior
+C474,Express Concepción Viveres,Comida Rápida,15,15,Norte,3,3628,2645,21,No,Sí,Sí,Sí,5806,2163,1,55,Básico
+C475,Mini La Unión Distribuidora,Textiles,25,2,Sur,5,4315,2783,29,No,Sí,Sí,No,14621,3622,3,46,Básico
+C476,Las Dolores Depto,Panadería,30,2,Centro,3,3586,2972,18,Sí,No,No,No,3355,562,9,71,Medio
+C477,Los Dolores Súper,Frutas y Verduras,2,1,Norte,1,1088,664,21,No,Sí,No,No,2759,687,0,38,Básico
+C478,La Libertad Tienda,Carnes,10,4,Este,1,2838,2171,22,Sí,Sí,Sí,Sí,4388,183,0,47,Básico
+C479,Express San Miguel Tienda,Frutas y Verduras,15,4,Centro,5,2600,2038,20,No,No,No,No,3953,4468,3,42,Básico
+C480,Casa San Miguel Tienda,Abarrotes,12,6,Oeste,1,2287,1514,18,No,No,No,No,5377,3762,0,34,Medio
+C481,Super Ahuachapán Depto,Misceláneos,15,10,Este,1,2021,1142,10,No,Sí,Sí,Sí,5927,903,0,65,Medio
+C482,Los Selectos Market,Abarrotes,15,2,Este,6,3360,2020,29,Sí,No,No,No,8197,730,0,61,Primaria
+C483,Los Sol Comercial,Panadería,18,1,Norte,4,3465,2221,24,No,No,Sí,No,8548,642,1,49,Básico
+C484,La Rosario Tienda,Frutas y Verduras,3,3,Norte,1,1426,1088,19,No,Sí,No,Sí,2072,419,0,30,Primaria
+C485,Los Palma Tienda,Misceláneos,20,12,Oeste,3,2267,1436,14,No,Sí,No,No,7960,4851,2,42,Superior
+C486,Casa Económico Súper,Panadería,1,1,Centro,1,2282,1780,14,Sí,Sí,No,No,3417,268,2,50,Básico
+C487,Los Dolores Depto,Abarrotes,1,1,Este,1,1675,1098,15,No,No,No,No,4404,3877,0,50,Primaria
+C488,El Sol Viveres,Misceláneos,5,5,Centro,0,1373,1075,12,No,No,No,No,2249,372,0,55,Primaria
+C489,Mini Dolores Multi,Lácteos,18,1,Centro,1,2649,2043,21,No,No,Sí,Sí,5718,762,4,37,Primaria
+C490,Distribuidora Concepción Market,Abarrotes,20,1,Centro,2,3215,1887,18,Sí,No,No,Sí,7651,101,0,46,Primaria
+C491,Super Caribe Súper,Carnes,8,2,Oeste,2,3149,2638,24,Sí,Sí,No,Sí,1601,222,1,42,Superior
+C492,Los Económico Multi,Comida Rápida,20,6,Oeste,5,4738,3000,29,Sí,No,No,Sí,20340,620,1,55,Superior
+C493,La Providencia Comercial,Textiles,3,3,Este,2,2106,1757,23,No,Sí,Sí,No,2122,1304,1,62,Básico
+C494,Distribuidora Esperanza Súper,Frutas y Verduras,2,2,Oeste,2,1943,1197,25,Sí,No,No,No,2725,2346,0,41,Medio
+C495,Mi Reyes Market,Textiles,12,1,Sur,4,2235,1558,21,Sí,No,Sí,No,6303,450,15,46,Medio
+C496,Super Mercedes Súper,Misceláneos,10,10,Oeste,0,1334,1006,14,No,No,No,No,482,399,2,66,Primaria
+C497,La Mercedes Viveres,Comida Rápida,25,13,Centro,3,4593,2526,15,No,No,Sí,No,7402,3132,1,26,Básico
+C498,Mini Fuente Depto,Carnes,20,6,Sur,2,4172,2534,14,Sí,Sí,Sí,No,10833,563,0,45,Superior
+C499,La Sagrado Corazón Market,Lácteos,5,2,Norte,1,1600,1196,9,No,No,Sí,Sí,1053,517,3,49,Básico
+C500,Los  Imperial Súper,Comida Rápida,2,2,Centro,4,2088,1194,16,No,Sí,No,Sí,10631,196,0,37,Medio
